@@ -55,6 +55,10 @@ export const projects = [
     "Next.js",
     "Tailwind/Bootstrap",
     "Material UI",
+    "Node-js",
+    "Mongo-db",
+    "Express-js",
+    "Git & Github",
     "Problem-Solving",
   ];
   

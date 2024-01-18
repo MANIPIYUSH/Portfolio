@@ -9,7 +9,10 @@ export default function About() {
               apps.
             </h1>
             <p className="mb-8 leading-relaxed">
-              I am 2021 B-tech computer Science graduate after graduation i have done 2 internship and currenly i am lerning Fullstack developememt
+            strong in design and integration with intuitive problem-solving skills. I am proficient in
+            !! Frontend Developmen with TECHSTACK as Html, CSS,JavaScript,React-Js,Next-js,Redux,Tailwind,Bootstrap,material-ui.
+            and Familiar with Backend-Development with TECHSTACK as Node-js,express-js,mongo-db(mongosse).
+            Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to WORK as Front-end engineer with a reputed firm driven by technology.
             </p>
             <div className="flex justify-center">
               <a
